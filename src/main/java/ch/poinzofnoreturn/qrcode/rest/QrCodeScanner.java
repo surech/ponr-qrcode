@@ -1,5 +1,6 @@
 package ch.poinzofnoreturn.qrcode.rest;
 
+import com.google.zxing.BarcodeFormat;
 import com.google.zxing.BinaryBitmap;
 import com.google.zxing.MultiFormatReader;
 import com.google.zxing.Result;
